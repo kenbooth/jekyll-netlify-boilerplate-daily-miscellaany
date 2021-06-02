@@ -11,4 +11,4 @@ Before we get started, I'd like to set expectations appropriately low. That is t
 
 You're likely to run into short, original book reviews; quotes from interesting and intelligent people; links to obscure online collections and random bits of art and photographs.
 
-Also, the site's title is partially a lie. I don't anticipate making daily updates.
+Also, the site's title is partially a lie. I don't anticipate making daily updates. But occasionalmiscellany.com doesn't have the same ring to it.
