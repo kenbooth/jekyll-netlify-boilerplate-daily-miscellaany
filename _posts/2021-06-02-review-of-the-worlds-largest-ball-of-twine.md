@@ -5,3 +5,5 @@ author: ken_booth
 date: 2021-06-02 17:28:44
 ---
 There is apparently some competition between the twine ball in Cawker City and one in xxxxx.
+
+Nearby is the Geographic Center of the United States.
