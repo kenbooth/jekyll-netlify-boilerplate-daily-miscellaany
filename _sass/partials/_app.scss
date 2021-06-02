@@ -39,6 +39,7 @@ header {
 header > h1 {
   display: inline-block;
   padding-bottom: 1rem;
+  font-weight: bold;
   @media screen and (min-width: $screen-sm-min) {
     padding-bottom: 0;
   }
