@@ -8,7 +8,7 @@ layout: default
 <time datetime="{{ page.date }}">
   <small>
     <strong>{{ page.date | date_to_string }}</strong>
-    {% if author %}
+    {% if author %}<br>
       by {{ author.name }}
     {% endif %}
   </small>
