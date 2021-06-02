@@ -2,7 +2,7 @@
 layout: post
 title: Welcome to Daily Miscellany
 meta_description: Setting expectations appropriately low before we even get started.
-author: john_doe
+author: ken_booth
 date: 2021-06-02 14:55:43
 intro_paragraph: ""
 categories: miscellany about
