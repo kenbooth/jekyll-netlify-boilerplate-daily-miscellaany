@@ -9,3 +9,5 @@ If you find yourself driving across Kansas you might ask yourself, as I did, "ho
 There is apparently some competition between the twine ball in Cawker City and one in xxxxx.
 
 Nearby is the Geographic Center of the United States.
+
+Is is combustible? I'm asking for a friend and don't intend to find out.
