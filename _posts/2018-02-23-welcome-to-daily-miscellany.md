@@ -9,4 +9,6 @@ categories: miscellany about
 ---
 Before we get started, I'd like to set expectations appropriately low. That is to say, if you don't expect much from this site you won't be disappointed. What you can expect to find here is a collection of writings and links on various subjects along with random bits of ephemera.
 
-Despite the promise of the site's title I begin this project anticipating I won't make daily updates.
+You're likely to run into short, original book reviews; quotes from interesting and intelligent people; links to obscure online collections and random bits of art and photographs.
+
+Also, the site's title is partially a lie. I don't anticipate making daily updates.
