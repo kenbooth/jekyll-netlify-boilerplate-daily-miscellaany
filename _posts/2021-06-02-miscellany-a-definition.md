@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A definition of miscellany
+title: "Miscellany: A definition"
 meta_description: Miscellany definition
 author: ken_booth
 date: 2021-06-02 16:04:25
