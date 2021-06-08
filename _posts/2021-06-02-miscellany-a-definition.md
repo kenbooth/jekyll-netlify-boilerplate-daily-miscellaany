@@ -5,7 +5,7 @@ meta_description: Miscellany definition
 author: ken_booth
 date: 2021-06-02 16:04:25
 intro_paragraph: ""
-categories: miscellany language
+categories: Miscellany Language
 ---
 *noun*<br>
 mis·​cel·​la·​ny | ˈmi-sə-ˌlā-nē<br>
