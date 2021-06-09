@@ -15,7 +15,7 @@ html {
 // now we can specify a single font size in rem for each of our elements
 // the root breakpoints above will then scale all elements together
 
-body { 
+body {
   color: $text-color;
   font-family: $base-font;
   line-height: $base-line-height;
@@ -54,6 +54,7 @@ h1,h2,h3,h4,h5,h6 {
 h2 {
   font-size: 3.2rem;
   padding-bottom: 4rem;
+  line-height: 1.7;
 }
 
 h3 {
